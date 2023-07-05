@@ -1,0 +1,9 @@
+.ProseMirror-menubar {
+  display: none;
+}
+#content {
+  display: none;
+}
+.inline {
+  background-color: red;
+}
